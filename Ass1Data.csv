@@ -1,0 +1,26 @@
+Course,ItemName,Energy(KJ),Protein (g),Carbohydrates with sugar alcohols (g),Total fat (g),Dietary fibre (g),Menu_Item_ID
+food,Sandwich chicken & salad,653,10.4,18,4,2.6,130
+food,Sandwich ham & cheese,1102,14.1,23.6,11.6,2.9,131
+food,Sandwich ham & salad,649,7.4,20.6,3.9,3.3,132
+food,Sandwich ham & tomato toasted,879,10,27.6,5.5,3.7,133
+food,Sandwich with peanut butter,1295,11.2,34.8,13,4.5,134
+food,Sandwich roast beef or lamb & salad,707,15.6,14.1,5,2.1,135
+food,Sandwich tuna,881,16.2,19.6,6.9,2.2,136
+food,Sandwich tuna & salad,667,12,15.3,5,2.3,137
+food,Steak sandwich beef steak,886,20.1,13.8,8.2,1,138
+food,Steak sandwich beef steak cheese & salad,695,14.8,10.3,7,1.4,139
+food,Vegetable or lentil burger,909,7.4,35.3,4.3,3.3,140
+food,Vegetable or lentil burger with cheese & salad,717,6.5,24.6,4.5,2.9,141
+Beverage,Beverage chocolate flavour with regular fat cows milk,366,3.5,10.8,3.5,0.1,220
+Beverage,Chai latte regular fat cows milk,407,4,12.2,3.8,0,221
+Beverage,Chai latte reduced fat cows milk,329,4.4,11.5,1.8,0,222
+Beverage,Coffee made up with regular fat cows milk,263,3.2,5.5,3.1,0.2,223
+Beverage,Coffee cappuccino with regular fat cows milk,221,2.6,4.8,2.6,0,224
+Beverage,Coffee cappuccino with skim cows milk,116,2.7,4,0.2,0,225
+Beverage,Coffee flat white or latte with regular fat cows milk,228,2.7,4.8,2.8,0,226
+Beverage,Coffee flat white with skim cows milk,116,2.9,3.9,0.1,0,227
+Beverage,Coffee macchiato with regular fat cows milk,54,0.7,1,0.7,0,228
+Beverage,Cordial fruit cup stronger ,174,0,10.7,0,0,229
+Beverage,Cordial lime or green regular,159,0,9.6,0,0,230
+Beverage, apple juice commercial,178,0.1,10.9,0,0,231
+Beverage,orange juice commercial,176,0.2,10.4,0,0.1,232
